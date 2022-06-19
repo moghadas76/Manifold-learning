@@ -16,3 +16,7 @@ python mds.py
 
 
 ## Results
+
+!["MDS"](https://github.com/moghadas76/Manifold-learning/blob/main/pers_mds.png?raw=true)
+
+!["Isomap"](https://github.com/moghadas76/Manifold-learning/blob/main/iso_per.png?raw=true )
